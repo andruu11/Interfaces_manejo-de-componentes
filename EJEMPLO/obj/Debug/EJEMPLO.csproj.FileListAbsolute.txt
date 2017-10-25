@@ -1,0 +1,20 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\bin\Debug\EJEMPLO.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\bin\Debug\EJEMPLO.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.Form2.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\EJEMPLO\obj\Debug\EJEMPLO.pdb
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.exe
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.pdb
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.exe
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\bin\Debug\EJEMPLO.pdb
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csprojResolveAssemblyReference.cache
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Form1.resources
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Form2.resources
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\EJEMPLO\EJEMPLO\obj\Debug\EJEMPLO.csproj.GenerateResource.Cache
